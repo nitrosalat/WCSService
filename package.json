@@ -1,0 +1,11 @@
+{
+  "name": "CoverageServer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "xml" : "*",
+    "express": "~4.13.1",
+    "xml2js" : "*",
+    "uuid" : "*"
+  }
+}
